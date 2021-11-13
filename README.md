@@ -1,5 +1,5 @@
 # oas3topdf
-oas3 to  markdown word pdf  . generate interface docs from fastapi(python) or openapi.json
+oas3 to  markdown word pdf  . generate interface docs from fastapi(python) or openapi.json . oas3 2 pdf word markdown.
 
 项目来源：
 甲方大大不会用swigger ui 等web产品，只会使用word等传统文档。
